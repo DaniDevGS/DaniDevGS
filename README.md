@@ -19,6 +19,7 @@
 	</a>
 </p>
 
+
 <hr>
 
 <pre>
@@ -42,18 +43,12 @@
 
 ### 👨‍💻 Lenguajes de programación
 
-<p>
-    <a href="https://github.com/DaniDevGS"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/DaniDevGS"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/DaniDevGS"><img alt="C#" src="https://img.shields.io/badge/C%23-%239B4993.svg?logo=csharp&logoColor=white"></a>
+[![My Skills](https://skillicons.dev/icons?i=js,python,cs)](https://skillicons.dev)
 
 ### 🧰 Frameworks y librerias
 
-<p>
-    <a href="https://github.com/DaniDevGS"><img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white"></a>
-    <a href="https://github.com/DaniDevGS"><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="https://github.com/DaniDevGS"><img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white"></a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=flask,react,django)](https://skillicons.dev)
+
 
 <!-- 🗄️ Databases and Cloud Hosting-->
 
@@ -63,6 +58,7 @@
 </p> -->
 
 ### 💻 Software y Herramientas
+
 
 <p>
     <a href="https://github.com/DaniDevGS"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
