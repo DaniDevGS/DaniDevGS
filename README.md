@@ -59,11 +59,11 @@
 
 ### 💻 Software y Herramientas
 
-
-<p>
+[![My Skills](https://skillicons.dev/icons?i=git,vscode)](https://skillicons.dev)
+<!-- <p>
     <a href="https://github.com/DaniDevGS"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="https://github.com/DaniDevGS"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
+</p> -->
 </br>
 
 <!--
