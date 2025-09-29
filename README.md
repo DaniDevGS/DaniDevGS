@@ -8,7 +8,7 @@
 	<a href="https://github.com/DaniDevGS">
 		<img src="https://komarev.com/ghpvc/?username=danidevgs&label=Profile%20views&color=0e75b6&style=flat" alt="DaniDev" />
 	</a>
-	<a href="https://github.com/DaniDevGS">
+	<a href="https://github.com/DaniDevGS?tab=followers">
 		<img src="https://img.shields.io/github/followers/danidevgs?label=Followers" alt="DaniDev" />
 	</a>
 </p>
