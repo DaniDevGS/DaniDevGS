@@ -43,11 +43,14 @@
 
 ### 👨‍💻 Lenguajes de programación
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://github.com/DaniDevGS/computer-academy_frontend-project)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://github.com/DaniDevGS/student-management_python-basic)
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://github.com/DaniDevGS)
+
 
 ### 🧰 Frameworks y librerias
 
-[![My Skills](https://skillicons.dev/icons?i=flask,react,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,react,django)](https://github.com/DaniDevGS)
 
 
 <!-- 🗄️ Databases and Cloud Hosting-->
