@@ -31,13 +31,13 @@
 </pre>
 <hr>
 
-<!--🤝 Connect with me-->
-<!-- <p align="center">
-	<a href="mailto:bouaskaoun.mohammed@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/bouaskaoun/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/Bouaskaoun"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.kaggle.com/bouaskaounmohammed"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-</p> -->
+## 🤝 Contactame 
+<p align="center">
+	<!-- <a href="mailto:bouaskaoun.mohammed@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a> -->
+	<a href="https://www.linkedin.com/in/daniel-david-danidevgs-salazar-052a32356/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+	<a href="https://github.com/DaniDevGS"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+	<!-- <a href="https://www.kaggle.com/bouaskaounmohammed"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a> -->
+</p>
 
 ## 🛠️ Mis herramientas favoritas
 
@@ -53,20 +53,12 @@
 [![My Skills](https://skillicons.dev/icons?i=flask,react,django)](https://github.com/DaniDevGS)
 
 
-<!-- 🗄️ Databases and Cloud Hosting-->
 
-<!-- <p>
-    <a href="https://github.com/Bouaskaoun"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
-</p> -->
 
 ### 💻 Software y Herramientas
 
 [![My Skills](https://skillicons.dev/icons?i=git,vscode)](https://skillicons.dev)
-<!-- <p>
-    <a href="https://github.com/DaniDevGS"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://github.com/DaniDevGS"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p> -->
+
 </br>
 
 <!--
@@ -91,21 +83,23 @@
 	<br/>
 </p>
 <br/>
-<!--
-<summary><b>⚡ Activity graph</b></summary>
+
+<!-- <summary><b>⚡ Activity graph</b></summary>
 <br/>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://activity-graph.herokuapp.com/graph?username=bouaskaoun&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="bouaskaoun">
+	<a href="https://github.com/DaniDevGS">
+		<img src="https://activity-graph.herokuapp.com/graph?username=danidevgs&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="danidevgs">
 	</a>
 </p>
-<br/>
--->
+<br/> -->
+
+
 <summary><b>⚡ Idiomas principales</b></summary>
 <br/>
 
 <p align="center">
-	<a href="https://github.com/DaniDevGS">
+	<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=danidevgs&langs_count=8&layout=compact">
+	<!-- <a href="https://github.com/DaniDevGS"> -->
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danidevgs&langs_count=8&layout=compact" alt="danidevgs">
 	</a>
 	<br/>
@@ -113,6 +107,7 @@
 <b>Note:</b> Los idiomas principales son solo una métrica de los idiomas que componen mi código público y no reflejan la experiencia o el nivel de habilidad.
 </p>
 <br/>
+
 
 <!-- <table style="border: none">
   <tr>
