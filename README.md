@@ -78,7 +78,7 @@
 <p align="center">
 	<a href="https://github.com/DaniDevGS">
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=danidevgs&show_icons=true" alt="danidevgs">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=danidevgs" alt="danidevgs">
+	<img width="49.5%" src="[https://github-readme-streak-stats.herokuapp.com/?user=danidevgs](https://github-readme-streak-stats.herokuapp.com/?user=danidevgs)" alt="danidevgs">
 	</a>
 	<br/>
 </p>
@@ -99,7 +99,7 @@
 
 <p align="center">
 	<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=danidevgs&langs_count=8&layout=compact">
-	<!-- <a href="https://github.com/DaniDevGS"> -->
+	<a href="https://github.com/DaniDevGS">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danidevgs&langs_count=8&layout=compact" alt="danidevgs">
 	</a>
 	<br/>
