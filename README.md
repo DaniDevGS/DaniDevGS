@@ -73,16 +73,19 @@
 ## <a href="https://github.com/DaniDevGS"><img src="https://simpleicons.org/icons/github.svg" width="30"></a> GitHub Stats
 
 <br/>
+
 <summary><b>⚡ DaniDevGS's Stats</b></summary>
 <br/>
 <p align="center">
 	<a href="https://github.com/DaniDevGS">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=danidevgs&show_icons=true" alt="danidevgs">
-	<img width="49.5%" src="[https://github-readme-streak-stats.herokuapp.com/?user=danidevgs](https://github-readme-streak-stats.herokuapp.com/?user=danidevgs)" alt="danidevgs">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=danidevgs&theme=dark&show_icons=true" alt="danidevgs">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=danidevgs&theme=dark&" alt="danidevgs">
 	</a>
 	<br/>
 </p>
 <br/>
+
+
 
 <!-- <summary><b>⚡ Activity graph</b></summary>
 <br/>
@@ -98,28 +101,27 @@
 <br/>
 
 <p align="center">
+	<!-- GitHub Top Languages Stats Card (Centrada) -->
 	<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=danidevgs&langs_count=8&layout=compact">
 	<a href="https://github.com/DaniDevGS">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danidevgs&langs_count=8&layout=compact" alt="danidevgs">
+		<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=danidevgs&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 	</a>
 	<br/>
+		
 <br/>
 <b>Note:</b> Los idiomas principales son solo una métrica de los idiomas que componen mi código público y no reflejan la experiencia o el nivel de habilidad.
 </p>
 <br/>
 
 
-<!-- <table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
+<!--
 Let's Work on Your Project Together!
 
 If you have any questions about front-end web development, feel free to <a href="mailto:bouaskaoun.mohammed@gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/bouaskaoun/">LinkedIn</a> to deploy your machine learning project on web.
+You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/bouaskaoun/">LinkedIn</a> to deploy your machine learning project on web. -->
 
-  </td>
+<!--  </td>
   <td width="50%" valign="top">
 
 It's not perfect, isn't it?
