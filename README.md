@@ -52,8 +52,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=flask,react,django)](https://github.com/DaniDevGS)
 
+### 🛢 Base de datos
 
+[![My Skills](https://skillicons.dev/icons?i=sqlite,postgresql)](https://github.com/DaniDevGS)
 
+### </> Otras tecnologias
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind)](https://github.com/DaniDevGS)
 
 ### 💻 Software y Herramientas
 
