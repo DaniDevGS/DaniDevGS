@@ -83,7 +83,7 @@
 <br/>
 <p align="center">
 	<a href="https://github.com/DaniDevGS">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=danidevgs&theme=dark&show_icons=true" alt="danidevgs">
+		<!-- <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=danidevgs&theme=dark&show_icons=true" alt="danidevgs"> -->
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=danidevgs&theme=dark&" alt="danidevgs">
 	</a>
 	<br/>
@@ -144,4 +144,4 @@ It's not perfect, isn't it?
 
 [DaniDevGS](https://github.com/DaniDevGS)
 
-Última edición el: 27/09/2025
+Última edición el: 29/1/2026
