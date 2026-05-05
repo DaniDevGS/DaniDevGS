@@ -19,27 +19,8 @@
 
 ### 👾 `$ fastfetch`
 
-```nsi
-[36m                   -                 [34m[1mdaniel[0m@[34m[1mDaniDevGS[0m
-[36m                  .o+                [0m----------------[0m
-[36m                 ooo/                [36m[1mOS[0m: Arch Linux x86_64 (Venezuela 🇻🇪)
-[36m                +oooo:               [36m[1mUptime[0m: 17 years
-[36m               +oooooo:              [36m[1mRole[0m: Backend Developer & CS Student
-[36m               -+oooooo+:             [36m[1mLangs[0m: Python, JavaScript, C#, SQL
-[36m             /:-:++oooo+:            [36m[1mStack[0m: Django, Flask, React, FastAPI
-[36m            /++++/+++++++:           [36m[1mFocus[0m: REST APIs, RAG, E-commerce, IA
-[36m           /++++++++++++++:          [36m[1mIDE[0m: VS Code (Tokyo Night)
-[36m          /+++ooooooooooooo/        [36m[1mContact[0m: danielgs.dev@gmail.com
-[36m         ./ooosssso++osssssso+       [36m[1mStatus[0m: Building the future with code 🚀
-[36m        .oossssso-``/ossssss+      
-[36m       -osssssso.      :ssssssso.     [40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [0m
-[36m      :osssssss/        osssso+++.    
-[36m     /ossssssss/        +ssssooo/-    
-[36m   /ossssso+/:-        -:/+osssso+-  
-[36m  +sso+:-                 .-/+oso: 
-[36m ++:.                           -/+/
-[36m .                                 /
-[0m`                 daniel@DaniDevGS
+```yaml
+                   -`                 daniel@DaniDevGS
                   .o+`                ----------------
                  `ooo/                OS: Arch Linux x86_64 (Venezuela 🇻🇪)
                 `+oooo:               Uptime: 17 years
@@ -51,7 +32,7 @@
           `/+++ooooooooooooo/`        Contact: danielgs.dev@gmail.com
          ./ooosssso++osssssso+`       Status: Building the future with code 🚀
         .oossssso-````/ossssss+`      
-       -osssssso.      :ssssssso.     █████████████████████████████████
+       -osssssso.      :ssssssso.     ⬛ 🟥 🟩 🟨 🟦 🟪 🩵 ⬜
       :osssssss/        osssso+++.    
      /ossssssss/        +ssssooo/-    
    `/ossssso+/:-        -:/+osssso+-  
