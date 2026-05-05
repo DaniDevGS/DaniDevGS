@@ -1,117 +1,147 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Daniel+Salazar;%E2%9A%9B%EF%B8%8F+Backend+Developer;%F0%9F%90%8D+Python+Enthusiast;%F0%9F%92%BB+Computer+Science+Student" alt="Typing SVG" />
+!Hi, I'm DaniDevGS/ Daniel Salazar!
+	<a href="https://github.com/DaniDevGS" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
 </h1>
-
 <p align="center">
-  <a href="https://github.com/DaniDevGS">
-    <img src="https://komarev.com/ghpvc/?username=danidevgs&label=Profile%20views&color=0e75b6&style=flat-square" alt="DaniDev" />
-  </a>
-  <a href="https://github.com/DaniDevGS?tab=followers">
-    <img src="https://img.shields.io/github/followers/danidevgs?label=Followers&style=flat-square&color=blue" alt="DaniDev" />
-  </a>
-  <a href="https://github.com/DaniDevGS">
-    <img src="https://img.shields.io/github/stars/danidevgs?label=Stars&style=flat-square&color=yellow" alt="Stars" />
-  </a>
+	<a href="https://github.com/DaniDevGS">
+		<img src="https://komarev.com/ghpvc/?username=danidevgs&label=Profile%20views&color=0e75b6&style=flat" alt="DaniDev" />
+	</a>
+	<a href="https://github.com/DaniDevGS?tab=followers">
+		<img src="https://img.shields.io/github/followers/danidevgs?label=Followers" alt="DaniDev" />
+	</a>
+</p>
+<br/>
+<p align="center">
+	<a href="https://github.com/DaniDevGS">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Student;Backend+Web+Developer;Freelancer;&center=true&width=380&height=45">
+	</a>
 </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=danidevgs&theme=tokyonight&no-bg=true&margin-w=4" alt="Trophies" />
-</div>
 
 <hr>
 
-### 💫 Sobre mí
-
-```python
-class DaniDevGS:
-    def __init__(self):
-        self.name = "Daniel Salazar"
-        self.role = "Junior Python Developer"
-        self.location = "Venezuela 🇻🇪"
-        self.studying = "Informatica @ IUTIRLA"
-        self.hobbies = ["Coding", "Learning RAG", "Open Source"]
-
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something great.")
-
-me = DaniDevGS()
-me.say_hi()
-```
-
+<pre>
+💻 Soy un desarrollador junior de Python en frameworks como Flask y Django.
+📚 Soy un estudiante de Informatica en la universidad IUTIRLA de Venezuela
+📝 Tengo un gran interes en el desarrollo web tanto en Frontend como en backend
+🌟 Lenguajes Principales: Python, JavaScript, C#
+<!-- 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a> -->
+</pre>
 <hr>
 
-### 🛠️ Tecnologías & Herramientas
-
-<details open>
-  <summary><b>Languages & Core</b></summary>
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,js,cs,html,css" />
-    </a>
-  </p>
-</details>
-
-<details open>
-  <summary><b>Frameworks & Libraries</b></summary>
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=django,flask,react,bootstrap,tailwind" />
-    </a>
-  </p>
-</details>
-
-<details open>
-  <summary><b>Databases & Tools</b></summary>
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgresql,sqlite,git,vscode,postman,docker" />
-    </a>
-  </p>
-</details>
-
-<hr>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danidevgs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danidevgs&layout=compact&theme=tokyonight&hide_border=false" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=danidevgs&theme=tokyonight" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<hr>
-
-### 🤝 Connect with me
-
+## 🤝 Contactame 
 <p align="center">
-  <a href="https://www.linkedin.com/in/daniel-david-danidevgs-salazar-052a32356/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:danielgs.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+	<!-- <a href="mailto:bouaskaoun.mohammed@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a> -->
+	<a href="https://www.linkedin.com/in/daniel-david-danidevgs-salazar-052a32356/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+	<a href="https://github.com/DaniDevGS"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+	<!-- <a href="https://www.kaggle.com/bouaskaounmohammed"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a> -->
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DaniDevGS/DaniDevGS/main/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+## 🛠️ Mis herramientas favoritas
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
-</div>
+### 👨‍💻 Lenguajes de programación
+
+[![My Skills](https://skillicons.dev/icons?i=js)](https://github.com/DaniDevGS/computer-academy_frontend-project)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://github.com/DaniDevGS/student-management_python-basic)
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://github.com/DaniDevGS)
+
+
+### 🧰 Frameworks y librerias
+
+[![My Skills](https://skillicons.dev/icons?i=flask,react,django)](https://github.com/DaniDevGS)
+
+### 🛢 Base de datos
+
+[![My Skills](https://skillicons.dev/icons?i=sqlite,postgresql)](https://github.com/DaniDevGS)
+
+### </> Otras tecnologias
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind)](https://github.com/DaniDevGS)
+
+### 💻 Software y Herramientas
+
+[![My Skills](https://skillicons.dev/icons?i=git,vscode)](https://skillicons.dev)
+
+</br>
+
+<!--
+### 👨🏽‍💻 Workspace
+<p>
+    <a href="https://github.com/Bouaskaoun"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+</p>
+-->
+
+
+## <a href="https://github.com/DaniDevGS"><img src="https://simpleicons.org/icons/github.svg" width="30"></a> GitHub Stats
+
+<br/>
+
+<summary><b>⚡ DaniDevGS's Stats</b></summary>
+<br/>
+<p align="center">
+	<a href="https://github.com/DaniDevGS">
+		<!-- <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=danidevgs&theme=dark&show_icons=true" alt="danidevgs"> -->
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=danidevgs&theme=dark&" alt="danidevgs">
+	</a>
+	<br/>
+</p>
+<br/>
+
+
+
+<!-- <summary><b>⚡ Activity graph</b></summary>
+<br/>
+<p align="center">
+	<a href="https://github.com/DaniDevGS">
+		<img src="https://activity-graph.herokuapp.com/graph?username=danidevgs&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="danidevgs">
+	</a>
+</p>
+<br/> -->
+
+
+<summary><b>⚡ Idiomas principales</b></summary>
+<br/>
 
 <p align="center">
-  <i>Última actualización: 2026-05-05</i>
+	<!-- GitHub Top Languages Stats Card (Centrada) -->
+	<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=danidevgs&langs_count=8&layout=compact">
+	<a href="https://github.com/DaniDevGS">
+		<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=danidevgs&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+	</a>
+	<br/>
+		
+<br/>
+<b>Note:</b> Los idiomas principales son solo una métrica de los idiomas que componen mi código público y no reflejan la experiencia o el nivel de habilidad.
 </p>
+<br/>
+
+
+<!--
+Let's Work on Your Project Together!
+
+If you have any questions about front-end web development, feel free to <a href="mailto:bouaskaoun.mohammed@gmail.com">contact me through email</a> me.
+
+You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/bouaskaoun/">LinkedIn</a> to deploy your machine learning project on web. -->
+
+<!--  </td>
+  <td width="50%" valign="top">
+
+It's not perfect, isn't it?
+
+**<a href="https://github.com/Bouaskaoun"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
+
+“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
+– Elon Musk
+
+  </td>
+  </tr>
+</table> -->
+
+------
+
+[DaniDevGS](https://github.com/DaniDevGS)
+
+Última edición el: 29/1/2026
