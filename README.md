@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://github.com/DaniDevGS">
-    <img src="https://komarev.com/ghpvc/?username=danidevgs&label=Visitas%20al%20Perfil&color=0e75b6&style=for-the-badge" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=DaniDevGS&label=Visitas%20al%20Perfil&color=0e75b6&style=for-the-badge" alt="Views" />
   </a>
   <a href="https://github.com/DaniDevGS?tab=followers">
-    <img src="https://img.shields.io/github/followers/danidevgs?label=Seguidores&style=for-the-badge&color=blue" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/DaniDevGS?label=Seguidores&style=for-the-badge&color=blue" alt="Followers" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 
 <table border="0">
   <tr>
-    <td width="60%">
+    <td width="50%">
       <p align="left">
         ¡Hola! Soy un apasionado por la tecnología y el desarrollo de software. Actualmente me enfoco en el <b>Backend con Python</b> (Django/Flask) y estoy explorando el mundo de la Inteligencia Artificial con <b>RAG (Retrieval-Augmented Generation)</b>.
       </p>
@@ -32,8 +32,8 @@
         🎓 <b>Estudiante:</b> Informática en el IUTIRLA, Venezuela.
       </p>
     </td>
-    <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danidevgs&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+    <td width="50%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJvYnB6ZzFremZ4eXF4eXF4eXF4eXF4eXF4eXF4eXF4eXF4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
     </td>
   </tr>
 </table>
@@ -56,20 +56,20 @@
 ### 📊 Análisis de Actividad
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=danidevgs&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=danidevgs&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DaniDevGS&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DaniDevGS&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danidevgs&theme=tokyonight" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniDevGS&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
 <hr>
 
-### 🎮 Mi Contribución en el Tiempo
+### 🎮 Actividad Semanal
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DaniDevGS/DaniDevGS/main/github-contribution-grid-snake.svg" alt="Snake" width="100%" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DaniDevGS&theme=tokyo-night" />
 </p>
 
 <hr>
