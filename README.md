@@ -63,7 +63,7 @@
   <img src="https://skillicons.dev/icons?i=django,flask,react,bootstrap,tailwind,fastapi" /><br><br>
   
   <b>[ INFRAESTRUCTURA & HERRAMIENTAS ]</b><br>
-  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,git,vscode,docker,linux,postman,aws" />
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,git,vscode,linux,vercel,aws" />
 </div>
 
 ---
@@ -71,13 +71,13 @@
 ### 📊 Server Status (Actividad de GitHub)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DaniDevGS&show_icons=true&theme=tokyonight&count_private=true" />
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DaniDevGS&show_icons=true&theme=tokyonight&count_private=true" /> -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DaniDevGS&theme=tokyonight" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniDevGS&layout=compact&theme=tokyonight&hide_border=false" />
-</p>
+</p> -->
 
 ### 🎮 Commits (Historial de Ejecución)
 
@@ -93,11 +93,14 @@
   <a href="https://www.linkedin.com/in/daniel-david-danidevgs-salazar-052a32356/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:danielgs.dev@gmail.com">
+  <a href="mailto:danidevgs@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://danidevgs.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio_Web-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://es.fiverr.com/danidevgs">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
 </p>
 
