@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=sudo+pacman+-S+backend-developer;import+django,+flask;while+(alive):+code();Building+Scalable+APIs;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=sudo+pacman+-S+backend-developer;import+django,+;while+(alive):+code();Building+Scalable+APIs;" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
                 `+oooo:               Uptime: 17 years
                `+oooooo:              Role: Backend Developer & CS Student
                -+oooooo+:             Langs: Python, JavaScript, C#, SQL
-             `/:-:++oooo+:            Stack: Django, Flask, React, FastAPI
+             `/:-:++oooo+:            Stack: Django, React, FastAPI
             `/++++/+++++++:           Focus: REST APIs, RAG, E-commerce, IA
            `/++++++++++++++:          IDE: VS Code (Tokyo Night)
           `/+++ooooooooooooo/`        Contact: danidevgs@gmail.com
@@ -60,7 +60,7 @@
   <img src="https://skillicons.dev/icons?i=python,js,cs,html,css,cpp" /><br><br>
   
   <b>[ FRAMEWORKS & LIBRERÍAS ]</b><br>
-  <img src="https://skillicons.dev/icons?i=django,flask,react,bootstrap,tailwind,fastapi" /><br><br>
+  <img src="https://skillicons.dev/icons?i=django,react,bootstrap,tailwind,fastapi" /><br><br>
   
   <b>[ INFRAESTRUCTURA & HERRAMIENTAS ]</b><br>
   <img src="https://skillicons.dev/icons?i=postgresql,sqlite,git,vscode,linux,vercel,aws" />
