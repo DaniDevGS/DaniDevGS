@@ -29,7 +29,7 @@
              `/:-:++oooo+:            Stack: Django, Flask, React, FastAPI
             `/++++/+++++++:           Focus: REST APIs, RAG, E-commerce, IA
            `/++++++++++++++:          IDE: VS Code (Tokyo Night)
-          `/+++ooooooooooooo/`        Contact: danielgs.dev@gmail.com
+          `/+++ooooooooooooo/`        Contact: danidevgs@gmail.com
          ./ooosssso++osssssso+`       Status: Building the future with code 🚀
         .oossssso-````/ossssss+`      
        -osssssso.      :ssssssso.     ⬛ 🟥 🟩 🟨 🟦 🟪 🩵 ⬜
