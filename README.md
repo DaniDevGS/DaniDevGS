@@ -17,7 +17,7 @@
 
 ---
 
-### 👾 `$ fastfetch`
+### 👾 `$ Fastfetch`
 
 ```yaml
                    -`                 daniel@DaniDevGS
