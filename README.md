@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=DaniDevGS&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=DaniDevGS&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Junior%20Backend%20Developer%20&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=sudo+pacman+-S+backend-developer;import+django,+;while+(alive):+code();Building+Scalable+APIs;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=sudo+pacman+-S+junior-backend-developer;import+django,+;while+(alive):+code();Building+Scalable+APIs;" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
                   .o+`                ----------------
                  `ooo/                OS: Arch Linux x86_64 (Venezuela 🇻🇪)
                 `+oooo:               Uptime: 17 years
-               `+oooooo:              Role: Backend Developer & CS Student
+               `+oooooo:              Role: Junior Backend Developer & CS Student
                -+oooooo+:             Langs: Python, JavaScript, C#, SQL
              `/:-:++oooo+:            Stack: Django, React, FastAPI
             `/++++/+++++++:           Focus: REST APIs, RAG, E-commerce, IA
