@@ -60,7 +60,7 @@
   <img src="https://skillicons.dev/icons?i=python,js,cs,html,css" /><br><br>
   
   <b>[ FRAMEWORKS & LIBRERÍAS ]</b><br>
-  <img src="https://skillicons.dev/icons?i=django,react,bootstrap,tailwind,fastapi" /><br><br>
+  <img src="https://skillicons.dev/icons?i=django,react,nodejs,bootstrap,tailwind,fastapi" /><br><br>
   
   <b>[ INFRAESTRUCTURA & HERRAMIENTAS ]</b><br>
   <img src="https://skillicons.dev/icons?i=postgresql,sqlite,git,vscode,linux,vercel,aws" />
