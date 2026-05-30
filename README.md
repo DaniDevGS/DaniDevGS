@@ -57,7 +57,7 @@
 
 <div align="center">
   <b>[ LENGUAJES & CORE ]</b><br>
-  <img src="https://skillicons.dev/icons?i=python,js,cs,html,css" /><br><br>
+  <img src="https://skillicons.dev/icons?i=python,js,cs,html,css,java" /><br><br>
   
   <b>[ FRAMEWORKS & LIBRERÍAS ]</b><br>
   <img src="https://skillicons.dev/icons?i=django,react,nodejs,bootstrap,tailwind,fastapi" /><br><br>
