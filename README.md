@@ -40,7 +40,7 @@
  `++:.                           `-/+/
  .`                                 `/
 ```
-
+<!-- 
 ---
 
 ### 🏆 Logros y Trofeos
@@ -52,6 +52,7 @@
 </p>
 
 ---
+-->
 
 ### 🛠️ System Dependencies (Tech Stack)
 
