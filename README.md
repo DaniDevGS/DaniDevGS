@@ -25,7 +25,7 @@
                  `ooo/                OS: Arch Linux x86_64 (Venezuela 🇻🇪)
                 `+oooo:               Uptime: 17 years
                `+oooooo:              Role: Junior Backend Developer & CS Student
-               -+oooooo+:             Langs: Python, JavaScript, C#, SQL
+               -+oooooo+:             Langs: Python, JavaScript, SQL
              `/:-:++oooo+:            Stack: Django, React, FastAPI
             `/++++/+++++++:           Focus: REST APIs, RAG, E-commerce, IA
            `/++++++++++++++:          IDE: VS Code (Tokyo Night)
@@ -58,7 +58,7 @@
 
 <div align="center">
   <b>[ LENGUAJES & CORE ]</b><br>
-  <img src="https://skillicons.dev/icons?i=python,js,cs,html,css,java" /><br><br>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,java" /><br><br>
   
   <b>[ FRAMEWORKS & LIBRERÍAS ]</b><br>
   <img src="https://skillicons.dev/icons?i=django,react,nodejs,bootstrap,tailwind,fastapi" /><br><br>
