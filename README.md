@@ -75,13 +75,13 @@
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DaniDevGS&theme=tokyonight"/>
 </p>
 
-### 🎮 Commits (Historial de Ejecución)
+<!--### 🎮 Commits (Historial de Ejecución)
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DaniDevGS&theme=tokyo-night" />
 </p>
 
----
+--->>
 
 ### 🤝 /ping (Contacto)
 
